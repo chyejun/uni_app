@@ -1,4 +1,4 @@
-# uni_app 参考模仿学习作品
+# 参考模仿学习作品
 # 首页
 ![Image text](https://github.com/chyejun/images/blob/master/uni_app/1.png)
 # 分类
